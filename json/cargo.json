@@ -1,0 +1,234 @@
+{
+  "cargo": [
+    {
+      "id": 1,
+      "cargoName": "1CGK45X",
+      "capacity": "100",
+      "origin": "CGK",
+      "destination": "BDG",
+      "airline": "CITILINK",
+      "flightNumber": "asdasd",
+      "status": true
+    },
+    {
+      "id": 2,
+      "cargoName": "2BDO32",
+      "capacity": 159,
+      "origin": "DPS",
+      "destination": "SUB",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 3,
+      "cargoName": "3GGL20",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 4,
+      "cargoName": "4GKL22",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 5,
+      "cargoName": "5TGR73",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6,
+      "cargoName": "6CGK20",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7,
+      "cargoName": "7BDO99",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8,
+      "cargoName": "8KSR18",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9,
+      "cargoName": "9MKS01",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10,
+      "cargoName": "10GGK40",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11,
+      "cargoName": "10GGK40",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 12,
+      "cargoName": "10GGK40",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 13,
+      "cargoName": "10GGK40",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 14,
+      "cargoName": "10GGK40",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 15,
+      "cargoName": "10GGK40",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 16,
+      "cargoName": "10GGK40",
+      "capacity": 159,
+      "origin": "",
+      "destination": "",
+      "airline": "",
+      "flightNumber": "",
+      "status": "ACTIVE"
+    },
+    {
+      "cargoName": "test",
+      "capacity": "100",
+      "origin": "CGK",
+      "destination": "DPS",
+      "airline": "Sriwijaya",
+      "flightNumber": "SJ001",
+      "id": "e521c620-ee5e-4cb3-a219-356052715164",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "061c4a1d-a068-476a-8e24-828667e94b87",
+      "cargoName": "SWJ00192",
+      "capacity": "12",
+      "origin": "BPN",
+      "destination": "UPG",
+      "airline": "CITILINK",
+      "flightNumber": "SJ005",
+      "status": true
+    },
+    {
+      "id": "b91e14c9-5f62-4afb-933b-06b11a8dd94f",
+      "cargoName": "SWJ0012SS",
+      "capacity": "22",
+      "origin": "JOG",
+      "destination": "SUB",
+      "airline": "SRIWIJAYA",
+      "flightNumber": "SJ001",
+      "status": true
+    },
+    {
+      "id": "d15c46e7-e18b-4c04-983b-c87a94cc92cd",
+      "cargoName": "SJ001231",
+      "capacity": "10",
+      "origin": "UPG",
+      "destination": "CGK",
+      "airline": "SRIWIJAYA",
+      "flightNumber": "SJ001",
+      "status": false
+    },
+    {
+      "id": "ca279aac-d1df-4403-b94b-d7c5c69a8ad7",
+      "cargoName": "CT350KK",
+      "capacity": "10",
+      "origin": "BPN",
+      "destination": "JOG",
+      "airline": "CITILINK",
+      "flightNumber": "CT002",
+      "status": false
+    },
+    {
+      "id": "5259670c-d81a-44d2-921e-44eaa1a9af2b",
+      "cargoName": "CT001SK",
+      "capacity": "10",
+      "origin": "UPG",
+      "destination": "DPS",
+      "airline": "CITILINK",
+      "flightNumber": "CT002",
+      "status": false
+    },
+    {
+      "id": "c1884c49-08bf-4e00-afea-33ce4b433b5f",
+      "cargoName": "CT005SK",
+      "capacity": "10",
+      "origin": "PKU",
+      "destination": "DPS",
+      "airline": "CITILINK",
+      "flightNumber": "CT007",
+      "status": false
+    }
+  ]
+}
