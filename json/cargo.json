@@ -11,6 +11,16 @@
       "status": true
     },
     {
+      "id": 2,
+      "cargoName": "1CGK45X",
+      "capacity": "100",
+      "origin": "CGK",
+      "destination": "BDG",
+      "airline": "CITILINK",
+      "flightNumber": "asdasd",
+      "status": true
+    },
+    {
       "id": "061c4a1d-a068-476a-8e24-828667e94b87",
       "cargoName": "SWJ00192",
       "capacity": "12",
